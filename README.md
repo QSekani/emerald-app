@@ -1,0 +1,1 @@
+This is a website where jewelries are sold.
